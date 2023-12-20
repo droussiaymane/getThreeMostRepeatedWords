@@ -23,6 +23,7 @@ public class File {
         System.out.println(getThreeMostRepeatedWords("your paragraph here"));
     }
 }
+```
 
 ### Python
 To use the function in Python, simply run the `file.py` script. You can call the function with a string argument to test it.
