@@ -18,8 +18,16 @@ The `getThreeMostRepeatedWords` function takes a string input, representing a pa
 To use the function in Java, compile and run the `File.java`. The main method contains an example usage of the function.
 
 ```java
-public class Main {
+public class File {
     public static void main(String[] args) {
         System.out.println(getThreeMostRepeatedWords("your paragraph here"));
     }
 }
+
+### Python
+To use the function in Python, simply run the `file.py` script. You can call the function with a string argument to test it.
+
+```python
+from file import getThreeMostRepeatedWords
+
+print(getThreeMostRepeatedWords("your paragraph here"))
